@@ -1,0 +1,8 @@
+{
+    "name": "@bearz/ssh",
+    "description": "@bearz/ssh module",
+    "version": "0.0.0",
+    "exports": {
+        ".": "./mod.ts"
+    }
+}

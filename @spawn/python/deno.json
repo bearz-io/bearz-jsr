@@ -1,0 +1,8 @@
+{
+    "name": "@spawn/python",
+    "description": "@spawn/python module",
+    "version": "0.0.0",
+    "exports": {
+        ".": "./mod.ts"
+    }
+}

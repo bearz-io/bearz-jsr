@@ -1,0 +1,8 @@
+{
+    "name": "@spawn/windows",
+    "description": "@spawn/windows module",
+    "version": "0.0.0",
+    "exports": {
+        ".": "./mod.ts"
+    }
+}

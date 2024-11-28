@@ -1,4 +1,8 @@
 [
-    "@bearz/twig",
-    "@bearz/node-ssh2"
+    "@bearz/docker-modem",
+    "@bearz/docker-api",
+    "@bearz/node-ssh2",
+    "@bearz/sops",
+    "@bearz/ssh",
+    "@bearz/twig"
 ]

@@ -32,6 +32,8 @@ export const CHAR_LEFT_ANGLE_BRACKET = 60; /* < */
 export const CHAR_RIGHT_ANGLE_BRACKET = 62; /* > */
 export const CHAR_LEFT_CURLY_BRACKET = 123; /* { */
 export const CHAR_RIGHT_CURLY_BRACKET = 125; /* } */
+export const CHAR_LEFT_PAREN = 40; /* ( */
+export const CHAR_RIGHT_PAREN = 41; /* ) */
 export const CHAR_HYPHEN_MINUS = 45; /* - */
 export const CHAR_PLUS = 43; /* + */
 export const CHAR_DOUBLE_QUOTE = 34; /* " */
@@ -44,6 +46,9 @@ export const CHAR_AT = 64; /* @ */
 export const CHAR_AMPERSAND = 38; /* & */
 export const CHAR_TILDA = 126; /* ~ */
 export const CHAR_DOLLAR = 36; /* $ */
+export const CHAR_VERTICAL_TAB = 11; /* \v */
+export const CHAR_ASTERISK = 42; /* * */
+export const CHAR_COMMA = 44; /* , */
 
 /**
  * Equal character (`=`) code (61).

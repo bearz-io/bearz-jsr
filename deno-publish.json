@@ -55,7 +55,8 @@
         "@rex/pipelines",
         "@rex/primitives",
         "@rex/rexfile",
-        "@rex/tasks"
+        "@rex/tasks",
+        "@bearz/severity"
     ],
     "imports": {
         "@cliffy/command": "jsr:@cliffy/command@1.0.0-rc.7",
